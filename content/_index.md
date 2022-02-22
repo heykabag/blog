@@ -1,0 +1,5 @@
+---
+type: docs
+---
+
+Hello world
