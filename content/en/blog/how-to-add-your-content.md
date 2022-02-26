@@ -7,3 +7,25 @@ weight: 1
 
 [Home](https://heykabag.netlify.app)
 
+Maybe two important things to know is:
+
+- How the URL routing works
+- How to add the actual content
+
+## How the URL routing works
+
+This folder github repo reflects how the URL itself. This file located at `content/en/blog/how-to-add-your-content.md` and you can access it at https://heykabag.netlify.app/en/blog/how-to-add-your-content/ 
+
+## How to add the actual content
+
+Now we understand that URL is reflected by folder structures, we can create new link by create new file. Add your file inside `content/en/blog`, and it will generate new URL.
+
+You can use any markdown, e.g ~striked words`, or some code
+
+```
+defunc method
+```
+
+or some `formatted text` like this
+
+Hope we can enjoy writing on this blog
