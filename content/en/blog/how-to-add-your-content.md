@@ -14,7 +14,7 @@ Maybe two important things to know is:
 
 ## How the URL routing works
 
-This folder github repo reflects how the URL itself. This file located at `content/en/blog/how-to-add-your-content.md` and you can access it at https://heykabag.netlify.app/en/blog/how-to-add-your-content/ 
+This folder github repo reflects how the URL itself. This file located at `content/en/blog/how-to-add-your-content.md` and you can access it at [here](/en/blog/how-to-add-your-content/)
 
 ## How to add the actual content
 
