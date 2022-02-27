@@ -20,7 +20,7 @@ This folder github repo reflects how the URL itself. This file located at `conte
 
 Now that we understand URL is reflected by folder structures, we can create new link by creating a new file. Add your file inside `content/en/blog`, and it will generate new URL.
 
-You can use any markdown, e.g ~striked words`, or some code
+You can use any markdown, e.g ~~striked words~~, or some code
 
 ```
 defunc method
