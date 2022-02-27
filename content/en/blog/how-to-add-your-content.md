@@ -7,7 +7,7 @@ weight: 1
 
 [Home](https://heykabag.netlify.app)
 
-Maybe two important things to know is:
+Two important things to know are:
 
 - How the URL routing works
 - How to add the actual content
