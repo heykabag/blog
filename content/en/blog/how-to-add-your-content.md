@@ -16,7 +16,7 @@ Two important things to know are:
 
 This folder github repo reflects how the URL itself. This file located at `content/en/blog/how-to-add-your-content.md` and you can access it at [here](/en/blog/how-to-add-your-content/)
 
-## How to add the actual content
+## How to add contents
 
 Now we understand that URL is reflected by folder structures, we can create new link by create new file. Add your file inside `content/en/blog`, and it will generate new URL.
 
