@@ -10,7 +10,7 @@ weight: 1
 Two important things to know are:
 
 - How the URL routing works
-- How to add the actual content
+- How to add contents
 
 ## How the URL routing works
 
