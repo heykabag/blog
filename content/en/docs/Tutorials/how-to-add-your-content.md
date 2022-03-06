@@ -13,11 +13,11 @@ Two important things to know are:
 
 ## How the URL routing works
 
-This folder github repo reflects how the URL itself. This file located at `content/en/blog/how-to-add-your-content.md` and you can access it at [here](/en/blog/how-to-add-your-content/)
+This folder github repo reflects how the URL itself. This file located at `content/en/docs/Tutorials/how-to-add-your-content.md` and you can access it at [here](/docs/Tutorials/how-to-add-your-content/)
 
 ## How to add contents
 
-Now that we understand URL is reflected by folder structures, we can create new link by creating a new file. Add your file inside `content/en/blog`, and it will generate new URL.
+Now that we understand URL is reflected by folder structures, we can create new link by creating a new file. Add your file inside `content/en/docs`, and it will generate new URL.
 
 You can use any markdown, e.g ~~striked words~~, or some code
 
