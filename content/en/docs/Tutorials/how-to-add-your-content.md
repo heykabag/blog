@@ -1,9 +1,8 @@
 ---
 title: "How to add new content"
+date: 2022-03-01
 weight: 1
 ---
-
-# How to Add your Content
 
 [Home](https://heykabag.netlify.app)
 
