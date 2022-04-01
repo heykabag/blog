@@ -13,7 +13,7 @@ Two important things to know are:
 
 ## How the URL routing works
 
-This folder github repo reflects how the URL itself. This file located at `content/en/docs/Tutorials/how-to-add-your-content.md` and you can access it at [here](/docs/Tutorials/how-to-add-your-content/)
+This folder github repo reflects how the URL itself. This file located at `content/en/docs/Docsy Examples/Tutorials/how-to-add-your-content.md` and you can access it at [here](/docs/docsy-examples/tutorials/how-to-add-your-content/)
 
 ## How to add contents
 
