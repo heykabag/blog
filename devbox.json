@@ -1,0 +1,19 @@
+{
+  "packages": [
+    "gnumake",
+    "hugo@0.118.2",
+    "nodePackages.npm",
+    "nodejs",
+    "yarn"
+  ],
+  "shell": {
+    "init_hook": [
+      "echo 'Welcome to devbox!' > /dev/null"
+    ],
+    "scripts": {
+      "test": [
+        "echo \"Error: no test specified\" && exit 1"
+      ]
+    }
+  }
+}
