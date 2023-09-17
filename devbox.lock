@@ -1,0 +1,27 @@
+{
+  "lockfile_version": "1",
+  "packages": {
+    "gnumake": {
+      "resolved": "github:NixOS/nixpkgs/f80ac848e3d6f0c12c52758c0f25c10c97ca3b62#gnumake",
+      "source": "nixpkg"
+    },
+    "hugo@0.118.2": {
+      "last_modified": "2023-09-10T10:53:27Z",
+      "resolved": "github:NixOS/nixpkgs/78058d810644f5ed276804ce7ea9e82d92bee293#hugo",
+      "source": "devbox-search",
+      "version": "0.118.2"
+    },
+    "nodePackages.npm": {
+      "resolved": "github:NixOS/nixpkgs/f80ac848e3d6f0c12c52758c0f25c10c97ca3b62#nodePackages.npm",
+      "source": "nixpkg"
+    },
+    "nodejs": {
+      "resolved": "github:NixOS/nixpkgs/f80ac848e3d6f0c12c52758c0f25c10c97ca3b62#nodejs",
+      "source": "nixpkg"
+    },
+    "yarn": {
+      "resolved": "github:NixOS/nixpkgs/f80ac848e3d6f0c12c52758c0f25c10c97ca3b62#yarn",
+      "source": "nixpkg"
+    }
+  }
+}
